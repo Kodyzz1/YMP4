@@ -1,0 +1,26 @@
+# Firebase
+.firebase/
+.firebaserc.local
+
+# Node
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+server/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
